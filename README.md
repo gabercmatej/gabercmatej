@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Matej Gaberc 👋
 
-<!--
-**gabercmatej/gabercmatej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI-powered automation systems that help businesses save time, reduce manual work, and scale operations.
 
-Here are some ideas to get you started:
+### Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 AI Agents & Autonomous Workflows
+⚡ Business Process Automation
+🔗 API Integrations & System Connectivity
+📊 Data-Driven Automation Solutions
+🛠 Practical AI Applications
+
+### What You'll Find Here
+
+* Automation projects
+* AI experiments
+* Workflow templates
+* Integration solutions
+* Open-source tools
+* Learning notes and technical explorations
+
+### Currently Exploring
+
+* Multi-agent AI systems
+* Retrieval-Augmented Generation (RAG)
+* Local AI deployments
+* Advanced n8n workflows
+* AI-powered business operations
+
+### Philosophy
+
+> Automate the repetitive. Augment the creative. Focus on impact.
+
+📫 Feel free to connect or collaborate on automation and AI projects.
