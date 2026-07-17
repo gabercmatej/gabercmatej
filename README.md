@@ -27,8 +27,4 @@ I build AI-powered automation systems that help businesses save time, reduce man
 * Advanced n8n workflows
 * AI-powered business operations
 
-### Philosophy
-
-> Automate the repetitive. Augment the creative. Focus on impact.
-
 📫 Feel free to connect or collaborate on automation and AI projects.
