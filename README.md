@@ -1,30 +1,17 @@
-# Hi, I'm Matej Gaberc 👋
+# Matej Gaberc
 
-I build AI-powered automation systems that help businesses save time, reduce manual work, and scale operations.
+I design and build AI systems that automate real business work.
 
-### Current Focus
+## Services
 
-* 🚀 AI Agents & Autonomous Workflows
-* ⚡ Business Process Automation
-* 🔗 API Integrations & System Connectivity
-* 📊 Data-Driven Automation Solutions
-* 🛠 Practical AI Applications
+**AI Automation** — Custom systems that take repetitive work off your team's plate, connecting your tools and data into workflows that run themselves.
 
-### What You'll Find Here
+**Custom AI Agents** — Autonomous agents that research, write, and act for your business, grounded in your data and built for your workflows.
 
-* Automation projects
-* AI experiments
-* Workflow templates
-* Integration solutions
-* Open-source tools
-* Learning notes and technical explorations
+**CRM & Sales Automation** — AI-driven lead discovery, prospect research, and follow-up: sales infrastructure that keeps your pipeline moving.
 
-### Currently Exploring
+**AI-Powered Apps & Websites** — Full-stack web applications with AI at the core, designed and built end to end.
 
-* Multi-agent AI systems
-* Retrieval-Augmented Generation (RAG)
-* Local AI deployments
-* Advanced n8n workflows
-* AI-powered business operations
+---
 
-📫 Feel free to connect or collaborate on automation and AI projects.
+Working primarily with TypeScript, Next.js, Supabase, and the Claude and OpenAI APIs.
