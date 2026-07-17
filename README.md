@@ -4,11 +4,11 @@ I build AI-powered automation systems that help businesses save time, reduce man
 
 ### Current Focus
 
-🚀 AI Agents & Autonomous Workflows
-⚡ Business Process Automation
-🔗 API Integrations & System Connectivity
-📊 Data-Driven Automation Solutions
-🛠 Practical AI Applications
+* 🚀 AI Agents & Autonomous Workflows
+* ⚡ Business Process Automation
+* 🔗 API Integrations & System Connectivity
+* 📊 Data-Driven Automation Solutions
+* 🛠 Practical AI Applications
 
 ### What You'll Find Here
 
