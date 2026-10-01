@@ -1,17 +1,28 @@
-# Matej Gaberc
+<picture>
+  <source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="hero-dark.png">
+  <source media="(prefers-color-scheme: light) and (prefers-reduced-motion: reduce)" srcset="hero-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="hero-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="hero-light.gif">
+  <img src="hero-light.gif" alt="Matej Gaberc — From idea to working software. AI development, design and automation." width="100%">
+</picture>
 
-I design and build AI systems that automate real business work.
+I'm Matej Gaberc, an AI developer based in Slovenia. I turn business ideas into useful software, combining development, design and creative production.
 
-## Services
+I work end to end: understanding the problem, designing the experience, building the solution and connecting it to your existing tools.
 
-**AI Automation** — Custom systems that take repetitive work off your team's plate, connecting your tools and data into workflows that run themselves.
+### What I do
 
-**Custom AI Agents** — Autonomous agents that research, write, and act for your business, grounded in your data and built for your workflows.
+<table>
+<tr>
+<td width="50%"><strong>Websites &amp; apps</strong><br>From landing pages to custom digital products.</td>
+<td width="50%"><strong>AI agents &amp; bots</strong><br>Assistants that work with your business knowledge.</td>
+</tr>
+<tr>
+<td><strong>Automation &amp; sales</strong><br>Connected workflows, lead research and CRM systems.</td>
+<td><strong>Marketing &amp; ad creatives</strong><br>AI-assisted content and visuals for your brand.</td>
+</tr>
+</table>
 
-**CRM & Sales Automation** — AI-driven lead discovery, prospect research, and follow-up: sales infrastructure that keeps your pipeline moving.
+**Built with:** TypeScript · React / Next.js · Supabase · Claude & OpenAI APIs
 
-**AI-Powered Apps & Websites** — Full-stack web applications with AI at the core, designed and built end to end.
-
----
-
-Working primarily with TypeScript, Next.js, Supabase, and the Claude and OpenAI APIs.
+Have something in mind? [Let’s talk →](mailto:matej.gaberc2004@gmail.com)
